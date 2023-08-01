@@ -38,5 +38,5 @@ Here is a boilerplate example you can copy & paste.
 
 2. [Nadia](https://github.com/SardonicBeauty) - Developer?
 
-   - Just someone trying to create and learn new things,  because college didn't help.
+   - Just someone trying to create and learn new things,  because college didn't help. 
    
